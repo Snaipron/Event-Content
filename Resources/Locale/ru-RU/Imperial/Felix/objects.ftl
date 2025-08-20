@@ -174,3 +174,6 @@ ent-FelixXenoRecoDecor = восстановитель
 
 ent-FelixWeaponQuroMachineGun = пулемёт "Куро"
     .desc = Пулемёт с боезапасом 125 патронов. Использует патроны 7x62x51.
+
+ent-FelixWeaponMagistrMachineGun = Пулемёт "Магистрат"
+    .desc = Имеет боезапас в 125 патронов, использует патроны 7x62x51.

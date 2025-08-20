@@ -1,0 +1,9 @@
+- type: entity
+  id: FelixWeaponMagistrMachineGun
+  name: Heavy Machine Gun "Magistr"
+  description: An ultra-large machine gun with 125 rounds of ammunition. It has a black color mixed with a set of wooden body parts. Uses 7x62x51 ammo.
+  parent: FelixWeaponQuroMachineGun
+  components:
+  - type: Gun
+    soundGunshot:
+      path: /Audio/Imperial/Snaipron/gun_magistr_fire.ogg
